@@ -109,7 +109,7 @@ Each design should document the following elements. The emphasis is on understan
 
 ---
 
-## 📁 Repository Structure
+<!-- ## 📁 Repository Structure
 
 ```text
 software-design-archive/
@@ -129,7 +129,7 @@ software-design-archive/
 └── assets/                  # Images, banners, and static files
 ```
 
----
+--- -->
 
 <div align="center">
   <p>Made with ❤️ by Harshit Maurya.</p>
